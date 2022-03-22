@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-twitter-1_0_0.flake = false;
+  inputs.src-twitter-1_0_0.ref   = "refs/tags/1.0.0";
   inputs.src-twitter-1_0_0.owner = "snus-kin";
-  inputs.src-twitter-1_0_0.ref   = "1_0_0";
   inputs.src-twitter-1_0_0.repo  = "twitter.nim";
   inputs.src-twitter-1_0_0.type  = "github";
   
