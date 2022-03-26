@@ -11,6 +11,7 @@
   inputs.src-twitter-master.ref   = "refs/heads/master";
   inputs.src-twitter-master.owner = "snus-kin";
   inputs.src-twitter-master.repo  = "twitter.nim";
+  inputs.src-twitter-master.dir   = "";
   inputs.src-twitter-master.type  = "github";
   
   inputs."uuids".owner = "nim-nix-pkgs";
