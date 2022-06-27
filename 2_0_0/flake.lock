@@ -155,7 +155,7 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "hmac": "hmac",
         "nixpkgs": "nixpkgs",
-        "src-twitter-master": "src-twitter-master",
+        "src-twitter-2_0_0": "src-twitter-2_0_0",
         "uuids": "uuids"
       }
     },
@@ -273,19 +273,19 @@
         "type": "github"
       }
     },
-    "src-twitter-master": {
+    "src-twitter-2_0_0": {
       "flake": false,
       "locked": {
-        "lastModified": 1654416687,
-        "narHash": "sha256-+td49uFaTX2Kn7kwLeDo4S7EmMQgZvsDiXLU+RFW0fQ=",
+        "lastModified": 1654416511,
+        "narHash": "sha256-zds7YH0dmJAaKVy/WNNPs79ZvEUA00SEr6RPf2/W738=",
         "owner": "snus-kin",
         "repo": "twitter.nim",
-        "rev": "a394e066f1427fd5262b9b546114ca6db1032b0e",
+        "rev": "afe1a53f3478aebdb9cb5edf435547b31ebfc7e3",
         "type": "github"
       },
       "original": {
         "owner": "snus-kin",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/2.0.0",
         "repo": "twitter.nim",
         "type": "github"
       }
